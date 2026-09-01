@@ -13,10 +13,10 @@
   url = "call-for-papers/"
   weight = 15
 
-#[[main]]
-#  name = "Venue"
-#  url = "venue/"
-#  weight = 18
+[[main]]
+  name = "Venue"
+  url = "venue/"
+  weight = 18
 
 #[[main]]
 #  name = "Registration"

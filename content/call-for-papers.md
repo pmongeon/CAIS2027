@@ -47,7 +47,7 @@ We are pleased to invite master’s and doctoral students at any stage of their 
 
 ## Important dates 
 
-- Submissions due: <strong>~~January 31~~ February 7</strong>
+- Submissions due: <strong>January 31</strong>
 - Peer reviews due: March 1
 - Notifications to authors: March 23
 - Final submissions due: May 11
