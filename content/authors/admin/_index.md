@@ -55,7 +55,7 @@ Every year, The CAIS/ACSI Awards recognize exceptional work from Master's resear
 
 
 ## Important Dates 
-- Submissions due: <strong>~~January 31~~ February 7 </strong>
+- Submissions due: <strong>January 31</strong>
 - Peer reviews due: March 1
 - Notifications to authors: March 23
 - Student forum applications due: March 31
