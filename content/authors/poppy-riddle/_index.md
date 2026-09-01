@@ -1,16 +1,15 @@
 ---
 title: Poppy Riddle
-role: ID PhD Program, Dalhousie University
+role: Crossref
 avatar_filename: avatar.jpg
 superuser: false
-bio: "I am a PhD student researching how searching for information may be improved. I am working at the intersection
- of information seeking behaviour, scientometrics, and human-computer interaction."
+bio: "I graduated from Dalhousie's Information Science doctoral program in 2026. My dissertation investigated metadata quality from the perspective of using it as an information source in retrieval-augmented generation. I now work at Crossref."
 
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:poppy.riddle@dal.ca'
+  link: 'mailto:poppy.riddle@icloud.com'
 - icon: cv
   link: authors/poppy_riddle_cv.pdf
 - icon: github

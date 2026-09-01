@@ -13,9 +13,7 @@ header:
 ---
 ## Organizing committee
 
-- Julia Bullard
-- Melissa Nelson
-- Cameron Pierson
+- Anton Ninkov, UdeM
 
 ## Contact us
 
