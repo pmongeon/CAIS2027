@@ -13,29 +13,47 @@ header:
 ---
 
 ## Call for papers
-The Canadian Association for Information Science (CAIS/ACSI) invites submissions for its 55th annual conference, June 22-26, 2027. The conference will be free and open to all, online, hosted by conference organizers at the Université de Montréal.
+Edges are not only limits, but also points of contact, negotiation, and emergence. It is often at the edges of information science that its most consequential work takes shape.  
 <br>
+For its 55th annual conference, CAIS/ACSI invites participants to turn their attention to these liminal spaces. What is lost when boundaries harden? What becomes possible when they are crossed, blurred, or redrawn?  
 <br>
-This year’s theme...  We are particularly interested in information science perspectives on ... As CAIS seeks to be a home for information science across Canada, our yearly conference routinely develops and supports scholarship in:
-- Information seeking and behaviour
-- Information literacy and education
-- Knowledge management and organization
-- Information technologies and systems
-- Social media
-- Bibliometrics and scholarly communication
-- Information policy and ethics
-- Cultural heritage and preservation
-- Health information management
-- Diversity, equity, and inclusion in information science<br>
-Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome.
+We welcome contributions that engage with edges in their many forms, including but not limited to:  
+- disciplinary borders and boundary objects;  
+- communities and knowledges situated at the margins of dominant information infrastructures;  
+- thresholds of access, inclusion, and exclusion;  
+- hybrid and interstitial professional practices, and the shifting boundaries of the information professions themselves;  
+- the edges of the document (what counts as record, archive, or data);  
+- algorithmic and AI boundaries in the production and organization of knowledge;  
+- temporal edges, and the thresholds where information passes from preserved to lost, or from remembered to forgotten;  
+- geopolitical and linguistic edges, and knowledges that exist at the margins of dominant languages and Global North infrastructures;  
+- methodological edges, where hybrid and emergent approaches resist easy disciplinary categorization.  
+<br>
+We invite both those who study edges and those who work at them.  
+<br>
+As CAIS seeks to be a home for information science across Canada, our annual conference routinely develops and supports scholarship in:  
+
+- Information seeking and behaviour  
+- Information literacy and education  
+- Knowledge management and organization  
+- Information technologies and systems  
+- Social media  
+- Bibliometrics and scholarly communication  
+- Information policy and ethics  
+- Cultural heritage and preservation  
+- Health information management  
+- Diversity, equity, and inclusion in information science  
+<br>
+Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome.  
 
 ## Types of proposals
 
 CAIS/ACSI welcomes proposals for papers, lightning talks, or panels focused on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French. All proposals will undergo peer review. Paper and lightning talks should be anonymized for submission; panel submissions will include identifying information.
 
-- <strong>Papers:</strong> 20-minute oral presentations of completed or well-developed projects on topics suitable for publication in scholarly journals. Proposals reporting on completed or ongoing research will be given preference. Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). 
-- <strong>Lightning Talks:</strong> 5-minute oral presentations covering a single element of a work in progress, or a new idea. Lightning talk proposals aiming to cover an entire research project will not be accepted. The purpose of a lightning talk is to start a discussion, receive input on an idea, or find collaborators. Proposals should be in the form of a 250-word abstract (excluding references).
-- <strong>Panels:</strong> 90-minute oral presentations from three or more authors on emerging domains, trends, or contrasting viewpoints, including time for questions or discussion. Panels are an opportunity to engage in discussion of shared concerns, including those not available in completed research or yet adequately recognized. Proposals should not be simply a set of related paper presentations; we encourage proposals that offer creative and unique opportunities for engagement and discussion with the audience as part of the panel session. We recommend three to five panelists plus a moderator; there will be an opportunity to modify the list of panelists after acceptance. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references), that identifies the topic to be discussed, provides an overview of the structure of the panel, and includes relevant qualifications and contributions of each participating panelist.
+- <strong>Full paper:</strong> 2000-3000 words excluding references.
+- <strong>Work in progress:</strong> 1000-2000 words excluding references.
+- <strong>Poster:</strong> 500-1000 words excluding references.
+- <strong>Panel:</strong> 500-1000 words excluding references.
+
 
 ## Submissions
 
@@ -43,12 +61,17 @@ Please use the [submission template](https://github.com/pmongeon/CAIS2026/blob/1
 
 ## Student research forum
 
-We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. Apply to participate by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLScj0ug404Kj7ahbgQZ8Lfpc7ICx-qoyIgJ21IsOlKBMxxcuDQ/viewform) by March 31
-
+We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. More information about participating in the Forum will be provided when Registration opens in March.
+<!-- 
+Apply to participate by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLScj0ug404Kj7ahbgQZ8Lfpc7ICx-qoyIgJ21IsOlKBMxxcuDQ/viewform) by March 31
+-->
 ## Important dates 
 
-- Submissions due: <strong>January 31</strong>
-- Peer reviews due: March 1
-- Notifications to authors: March 23
-- Final submissions due: May 11
+- Submissions due:  January 8th, 2027  
+- Peer reviews due: February 28th, 2027  
+- Notifications to authors: mid-March 2027  
+- Student Research Forum applications due: late March 2027  
+- Final submissions due: end of April 2027  
+- Conference: June 1–3, 2027  
+
 
