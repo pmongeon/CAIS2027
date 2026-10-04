@@ -1,5 +1,5 @@
 ---
-title: Welcome to Montréal and the Université de Montreal
+title: "Welcome to Montréal and the Université de Montreal"
 date: "2026-09-01T00:00:00+01:00"
 draft: false
 share: false
@@ -39,7 +39,8 @@ Our event is hosted by the École de bibliothéconomie et des sciences de l'info
  
 <strong>From the airport</strong>: Montréal-Trudeau (YUL) is about 20–30 minutes from campus by car or taxi. By public transit, the 747 bus route runs to Lionel-Groulx metro station in about 30–35 minutes. From Lionel-Groulx, take the Orange Line (Line 2) toward Côte-Vertu, then transfer to the Blue Line (Line 5) at Snowdon toward Saint-Michel. The 747 fare is $11.25 and works as a 24-hour pass for bus, métro and REM in Zone A. Please check STM.info for current schedules and routes. 
 
-[Tourisme MontréalSTM](https://www.mtl.org/en/what-to-do/city/747-aeroport-p-e-trudeau-centre-ville)
+[Tourisme Montréal](https://www.mtl.org/en)
+[STM](https://www.mtl.org/en/what-to-do/city/747-aeroport-p-e-trudeau-centre-ville)
 
 
 ## Accommodations
