@@ -30,12 +30,10 @@ header:
  
 ---
 
-
+# At the Edge: The 55th Annual Conference of the Canadian Association for Information Science  
 ## Welcome to CAIS 2027
 
-The Canadian Association for Information Science (CAIS/ACSI) will take place <strong>June xx-xx, 2027.</strong> The conference is free and open to all, online, hosted by conference organizers at the Université de Montréal. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet quis nulla in tempor. Donec venenatis, ex vitae vulputate pulvinar, ligula quam auctor neque, quis varius felis risus eu nibh. Aenean mauris nulla, laoreet vitae malesuada ac, dictum id nisi. Vivamus vestibulum nunc et tellus dapibus faucibus. In pulvinar sapien ligula, ut facilisis eros tempor at. Nam aliquam metus felis, vel egestas quam cursus et. Aliquam erat volutpat. Cras luctus nibh a dolor tempus, nec porttitor quam rhoncus. Mauris interdum id magna pellentesque maximus. Nam ut imperdiet risus. Vestibulum ut tellus non tortor sagittis interdum. Etiam semper quam felis, at egestas eros ultrices ac. Vivamus rhoncus justo et tellus pulvinar sodales. Nunc purus ante, posuere in eros quis, tincidunt laoreet nisi.  
+The Canadian Association for Information Science (CAIS/ACSI) is pleased to announce its 55th annual conference, to be held in a hybrid format at the École de bibliothéconomie et des sciences de l'information (EBSI), Université de Montréal, in the vibrant, bilingual city of Montréal, Québec, from <strong>June 1 – 3 2027</strong>.  
 
 As CAIS seeks to be a home for information science across Canada, our yearly conference routinely develops and supports scholarship in:
 - Information seeking and behaviour
@@ -51,21 +49,32 @@ As CAIS seeks to be a home for information science across Canada, our yearly con
 Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome.
 
 ### The CAIS/ACSI Awards
-Every year, The CAIS/ACSI Awards recognize exceptional work from Master's research, emerging leaders, doctoral dissertations, career achievement, and conference papers. Nominations will open in January, 2027 Please see the [CAIS-ACSI Awards page](https://cais-acsi.ca/Awards) for more information. 
+
+Every year, The CAIS/ACSI Awards recognize exceptional work from Master’s research, emerging leaders, doctoral dissertations, career achievement, and conference papers. Nominations will open in January, 2027 Please see the [CAIS-ACSI Awards page](https://cais-acsi.ca/Awards) for more information. 
 
 
 ## Important Dates 
-- Submissions due: <strong>January 31</strong>
-- Peer reviews due: March 1
-- Notifications to authors: March 23
-- Student forum applications due: March 31
-- Final submissions due: May 11
+
+- Submissions due:  <strong>January 8th, 2027 </strong> 
+- Peer reviews due: February 28th, 2027  
+- Notifications to authors: mid-March 2027  
+- Student Research Forum applications due: late March 2027  
+- Final submissions due: end of April 2027  
+- Conference: June 1–3, 2027  
 
 
 ## Organizing Committee
 
-Anton Ninkov, UdeM
-
-
+Anton Boudreau Ninkov (Université de Montréal) 
+Fatou Bah (University of Ottawa) 
+Claire Burrows (McGill University) 
+Sarah Cameron-Pesant (Université de Montréal) 
+Lucia Céspedes (Université de Montréal, Érudit) 
+Lubna Daraz (Université de Montréal) 
+Samuel Desnoyers (Université de Montréal) 
+Christine Dufour (Université de Montréal) 
+Constance Poitras (Université de Montréal) 
+Adrien Savard-Arseneault (Université de Montréal) 
+Adelaide Tracey (SUNY Upstate) 
 
 For more information, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
