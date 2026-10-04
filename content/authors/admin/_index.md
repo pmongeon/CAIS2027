@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 	
+title: 	"At the Edge: The 55th Annual Conference of the Canadian Association for Information Science"  
 avatar_filename: avatar.jpg
 
 # Username (this should match the folder name)
@@ -26,11 +26,11 @@ social:
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "Cais2027_homepage_image_en.jpg"
  
 ---
 
-# At the Edge: The 55th Annual Conference of the Canadian Association for Information Science  
+
 ## Welcome to CAIS 2027
 
 The Canadian Association for Information Science (CAIS/ACSI) is pleased to announce its 55th annual conference, to be held in a hybrid format at the École de bibliothéconomie et des sciences de l'information (EBSI), Université de Montréal, in the vibrant, bilingual city of Montréal, Québec, from <strong>June 1 – 3 2027</strong>.  
