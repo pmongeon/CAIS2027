@@ -25,8 +25,8 @@ social:
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: "/img/Cais2027_homepage_image_en.jpg"
+caption: ""
+image: "Cais2027_homepage_image_en.jpg"
 ---
 
 ## Welcome to CAIS 2027
