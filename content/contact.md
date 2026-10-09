@@ -13,7 +13,17 @@ header:
 ---
 ## Organizing committee
 
-- Anton Ninkov, UdeM
+- Anton Boudreau Ninkov (Université de Montréal)
+- Fatou Bah (University of Ottawa)
+- Claire Burrows (McGill University)
+- Sarah Cameron-Pesant (Université de Montréal)
+- Lucia Céspedes (Université de Montréal, Érudit)
+- Lubna Daraz (Université de Montréal)
+- Samuel Desnoyers (Université de Montréal)
+- Christine Dufour (Université de Montréal)
+- Constance Poitras (Université de Montréal)
+- Adrien Savard-Arseneault (Université de Montréal)
+- Adelaide Tracey (SUNY Upstate)
 
 ## Contact us
 
