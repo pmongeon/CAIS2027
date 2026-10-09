@@ -28,10 +28,10 @@ header:
 caption: ""
 image: "Cais2027_homepage_image_en.jpg"
 ---
+![CAIS 2027](/img/Cais2027_homepage_image_en.jpg)
 
 ## Welcome to CAIS 2027
 
-![CAIS 2027](/img/Cais2027_homepage_image_en.jpg)
 
 The Canadian Association for Information Science (CAIS/ACSI) is pleased to announce its 55th annual conference, to be held in a hybrid format at the École de bibliothéconomie et des sciences de l'information (EBSI), Université de Montréal, in the vibrant, bilingual city of Montréal, Québec, from <strong>June 1 – 3 2027</strong>.
 
