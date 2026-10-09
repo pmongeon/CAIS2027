@@ -58,7 +58,7 @@ CAIS/ACSI welcomes proposals for papers, lightning talks, or panels focused on e
 
 ## Submissions
 
-Please use the [submission template](https://github.com/pmongeon/CAIS2027/blob/main/releases/download/CAIS2027_template.docx) (in English) to prepare your submission. Then submit through our [OJS portal](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions).
+Please use the [submission template](https://cais2025.netlify.app/CAIS2025_template.docx) (in English) to prepare your submission. Then submit through our [OJS portal](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions).
 
 ## Student research forum
 
