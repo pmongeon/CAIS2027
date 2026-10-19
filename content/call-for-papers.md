@@ -49,13 +49,13 @@ Diverse and innovative perspectives (theoretical and applied) and methodologies 
 
 ## Types of proposals
 
-CAIS/ACSI welcomes proposals for papers, lightning talks, or panels focused on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French. All proposals will undergo peer review. Paper and lightning talks should be anonymized for submission; panel submissions will include identifying information.
+CAIS/ACSI welcomes proposals for full papers, lightning talks, posters, or panels focused on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French. All proposals will undergo peer review. Paper and lightning talks should be anonymized for submission; panel submissions will include identifying information.
 
-- <strong>Full paper:</strong> 2000-3000 words excluding references.
-- <strong>Work in progress:</strong> 1000-2000 words excluding references.
-- <strong>Poster:</strong> 500-1000 words excluding references.
-- <strong>Panel:</strong> 500-1000 words excluding references.
-
+- <strong>Full paper (completed or well-developed projects):</strong> 2000-3000 words excluding references.
+- <strong>Lightning talks (new idea or work-in-progess) </strong> 1000-2000 words excluding references.
+- <strong>Poster (in person visual summary):</strong> 500-1000 words excluding references.
+- <strong>Panel (presentation with Q&A):</strong> 500-1000 words excluding references.
+  
 ## Submissions
 
 Please use the [submission template](https://cais2025.netlify.app/CAIS2025_template.docx) (in English) to prepare your submission. Then submit through our [OJS portal](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions).
