@@ -52,7 +52,7 @@ Diverse and innovative perspectives (theoretical and applied) and methodologies 
 
 ### The CAIS/ACSI Awards
 
-Every year, The CAIS/ACSI Awards recognize exceptional work from Master’s research, emerging leaders, doctoral dissertations, career achievement, and conference papers. Nominations will open in January, 2027 Please see the [CAIS-ACSI Awards page](https://cais-acsi.ca/Awards) for more information.
+Every year, The CAIS/ACSI Awards recognize exceptional work from Master’s research, emerging leaders, doctoral dissertations, career achievement, and conference papers. Nominations will open in November, 2026 Please see the [CAIS-ACSI Awards page](https://cais-acsi.ca/Awards) for more information.
 
 ## Important Dates
 
