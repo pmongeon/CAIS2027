@@ -42,7 +42,7 @@ As CAIS seeks to be a home for information science across Canada, our annual con
 - Bibliometrics and scholarly communication
 - Information policy and ethics
 - Cultural heritage and preservation
-- Health information management
+- Health information science
 - Diversity, equity, and inclusion in information science
 
 Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome.
