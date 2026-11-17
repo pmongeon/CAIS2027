@@ -65,7 +65,7 @@ Every year, The CAIS/ACSI Awards recognize exceptional work from Master’s rese
 
 ## Organizing Committee
 
-- Anton Boudreau Ninkov (Université de Montréal)
+- Anton Boudreau Ninkov (Université de Montréal) test
 - Fatou Bah (University of Ottawa)
 - Claire Burrows (McGill University)
 - Sarah Cameron-Pesant (Université de Montréal)
