@@ -74,6 +74,7 @@ Every year, The CAIS/ACSI Awards recognize exceptional work from Master’s rese
 - Samuel Desnoyers (Université de Montréal)
 - Christine Dufour (Université de Montréal)
 - Constance Poitras (Université de Montréal)
+- Chantal Ripp (University of Ottawa)
 - Adrien Savard-Arseneault (Université de Montréal)
 - Adelaide Tracey (SUNY Upstate)
 
